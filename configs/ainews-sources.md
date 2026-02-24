@@ -3,7 +3,7 @@
 > 说明：此文件由 AI 资讯雷达自动读取。
 > 修改此文件后，无需更新 GPT 指令，下次对话自动生效。
 
-## 1. 全球模型官方 (Priority: High)
+## 1. 全球模型官方
 
 ### OpenAI
 - Web: https://openai.com/blog
@@ -47,7 +47,7 @@
 
 ---
 
-## 2. 中国大模型厂商 (Priority: High)
+## 2. 中国大模型厂商
 
 ### 阿里通义千问 (Qwen)
 - Web: https://tongyi.aliyun.com/
@@ -74,7 +74,7 @@
 
 ---
 
-## 3. 权威科技媒体 (Priority: Medium)
+## 3. 权威科技媒体
 
 ### TechCrunch AI
 - Web: https://techcrunch.com/category/artificial-intelligence/
@@ -102,7 +102,7 @@
 
 ---
 
-## 4. 学术与前沿 (Priority: Medium)
+## 4. 学术与前沿
 
 ### arXiv CS.AI
 - Web: https://arxiv.org/list/cs.AI/recent
