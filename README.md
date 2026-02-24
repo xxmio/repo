@@ -1,2 +1,3 @@
-# ainews
-ai-news
+# public
+
+## configs
