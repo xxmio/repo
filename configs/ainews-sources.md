@@ -70,7 +70,7 @@
 # 🟢 Tier 1B - 模型版本信号（结构化发布）
 
 ## Qwen (阿里通义千问)
-- Web: https://github.com/QwenLM/Qwen
+- Web: https://qwen.ai/research
 - Tags Feed: https://github.com/QwenLM/Qwen/tags.atom
 - HF: https://huggingface.co/Qwen
 - Mode: Hybrid
